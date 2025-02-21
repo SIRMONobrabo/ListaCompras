@@ -1,0 +1,21 @@
+#lista-btn-add{
+    border-radius: 0 5px 5px 0;
+}
+
+.item-conteudo-formulario:hover{
+    background-color: gainsboro;
+}
+
+.item-conteudo-formulario .bi{
+    margin: 0 10px;
+}
+
+.item-conteudo-formulario .bi:hover{
+    cursor: pointer;
+    background-color: rgb(253, 250, 250);
+    border-radius: 5px;
+}
+
+ul li{
+    list-style: none;
+}
